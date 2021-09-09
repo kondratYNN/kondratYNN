@@ -8,8 +8,8 @@
 
 
 ### 📬 Get in Touch
-* GitHub: github.com/kondratYNN
-* LinkedIn: linkedin.com/in/kondratynn/
+* GitHub: [github.com/kondratYNN](https://github.com/kondratYNN)
+* LinkedIn:  [linkedin.com/in/kondratynn/](https://www.linkedin.com/in/kondratynn/)
 * E-mail: kondratynn@gmail.com
 
 <!--
