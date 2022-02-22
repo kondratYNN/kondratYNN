@@ -1,7 +1,7 @@
 ## Hi, I'm Yana Kondratovich! :wave:
 ### :innocent: About me 
-* Young enthusiast with advanced Python knowledge and basic Java, C, Delphi level.
-* From Belarus, Novopolotsk
+* Young enthusiast with advanced Python knowledge and basic Java, C, Elixir level.
+* From Belarus, Minsk
 * Turn :coffee: and :pizza: into code
 * Bookworm :books: and artist :art:
 * Interested in Data Science, AI, ML (as  a hobby)
